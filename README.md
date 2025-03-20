@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Diogo Assunção👋
 
-- 🔭 Atualmente estudo Engenharia de Computação na Universidade Federal do Ceará (UFC)
-- 🌱 Estudando Microcontroladores...
+- 🤖 Atualmente estudo Engenharia de Computação na Universidade Federal do Ceará (UFC)
+- 👾 Estudando Microcontroladores...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
